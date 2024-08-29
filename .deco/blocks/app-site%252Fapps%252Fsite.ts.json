@@ -1,1 +1,23 @@
-{"__resolveType":"site/apps/site.ts","routes":[],"seo":{"titleTemplate":"%s","descriptionTemplate":"%s","type":"website"},"global":[],"caching":{"directives":[]},"firstByteThresholdMS":false}
+{
+  "__resolveType": "site/apps/site.ts",
+  "routes": [],
+  "seo": {
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website"
+  },
+  "global": [],
+  "caching": {
+    "directives": []
+  },
+  "firstByteThresholdMS": false,
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    }
+  },
+  "flavor": {
+    "framework": "fresh"
+  }
+}
